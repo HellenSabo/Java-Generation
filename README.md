@@ -14,6 +14,7 @@ categoria ela se encontra: a) 10-14 infantil; b) 15-17 juvenil; c) 18-25 adulto.
 **4)** Faça um programa que permita a entrada de um número qualquer e exiba se este
 número é par ou ímpar. Se for par, deve exibir também sua raiz quadrada; se for
 ímpar, deve exibi-lo elevado ao quadrado.
+
 -------------------------------------------------------------------------------------------
 **Segundo dia: Laços de Repetição**
 
