@@ -36,12 +36,14 @@ f) O número de pessoas calmas com menos de 18 anos.
 **5)** Crie um programa que leia números inseridos até que encontre um número igual a zero. No final, mostre a soma dos números digitados. (DO...WHILE)
 
 **6)** Escreva um programa que receba vários números inteiros. No final, imprima a média dos números múltiplos de 3. Para sair, deve-se digitar 0 (zero). (DO...WHILE)
+
 -------------------------------------------------------------------------------------------------------
 **Terceiro dia: Programação Orientada a Objetos**
 
 **1)** Crie uma CLASSE CLIENTE e apresente os atributos e métodos referentes a esta classe; em seguida crie um OBJETO CLIENTE, defina as instâncias deste objeto e apresente as informações dele no console.
 
 **2)** Crie uma CLASSE AVIÃO e apresente os atributos e métodos referentes esta classe; em seguida crie um OBJETO AVIÃO, defina as instâncias deste objeto e apresente as informações dele no console.
+
 --------------------------------------------------------------------------------------------------------
 **Quarto dia: Herança e Polimorfismo**
 
